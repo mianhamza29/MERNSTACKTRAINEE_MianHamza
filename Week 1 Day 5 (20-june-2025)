@@ -1,0 +1,22 @@
+# Web Development Learning - Day 5 Report (Git Day)
+
+## 📚 Topics Covered
+| Topic                     | Duration |
+|---------------------------|----------|
+| Git Fundamentals          | 2h       |
+| Git & GitHub Course       | 4h       |
+| Git Cheat Sheet Practice  | 2h       |
+
+
+## 💡 Key Concepts Covered
+    A[Git Fundamentals] --> B[Repository Management]
+    A --> C[Branching & Merging]
+    A --> D[Commit History]
+    
+    E[Git & GitHub] --> F[Remote Repositories]
+    E --> G[Collaboration Workflows]
+    E --> H[Pull Requests]
+    
+    I[Cheat Sheet] --> J[Essential Commands]
+    I --> K[Workflow Shortcuts]
+    I --> L[Error Recovery]
