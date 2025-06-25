@@ -1,0 +1,19 @@
+# Web Development Learning - Day 4 Report
+
+## 📚 Topics Covered
+| Topic                       | Duration   |
+|-----------------------------|------------|
+| Chrome Dev Tools            | 4.5h       |
+| CSS Flexbox                 | 2h         |
+| CSS Grid                    | 1.5h       |
+
+
+## 💡 Key Takeaways
+- **Chrome Dev Tools**:
+  - Elements inspection
+  - Debugging techniques
+  - Performance analysis
+- **CSS Layout Systems**:
+  - Flexbox for 1D layouts
+  - Grid for 2D complex layouts
+  - Responsive design principles
