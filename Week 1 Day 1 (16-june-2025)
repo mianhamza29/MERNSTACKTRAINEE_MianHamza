@@ -14,8 +14,17 @@
 
 
 ## 💡 Key Concepts
-- Internet infrastructure (DNS, Hosting)
-- Web protocols (HTTP)
-- Browser mechanics
-- Front-end/Back-end fundamentals
-- HTML foundations
+Internet Infrastructure (DNS, Hosting):
+Introduction to how domain names are resolved through DNS and how websites are hosted online.
+
+Web Protocols (HTTP):
+Overview of how the HTTP protocol facilitates communication between web clients and servers.
+
+Browser Mechanics:
+Explanation of how browsers process and render HTML, CSS, and JavaScript into visible web pages.
+
+Front-end/Back-end Fundamentals:
+Basic understanding of how front-end handles UI and back-end manages server-side logic and databases.
+
+HTML Foundations:
+Covers the essential structure and elements of HTML used to create web pages.
