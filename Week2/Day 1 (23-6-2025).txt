@@ -1,3 +1,4 @@
+Day 1: JavaScript Fundamentals
 🔹 JavaScript Crash Course for Beginners (4h)
 Covers core JavaScript concepts like syntax, loops, conditionals, functions, and arrays.
 
