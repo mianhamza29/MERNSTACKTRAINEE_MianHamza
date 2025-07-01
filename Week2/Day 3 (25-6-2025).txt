@@ -1,0 +1,25 @@
+Day 3: Intermediate JavaScript
+🔹 this Keyword (30m)
+Understand how this refers to different objects depending on the context.
+
+Explore behavior in global, function, method, and arrow function scopes.
+
+🔹 Async JavaScript (4h)
+Learn how JavaScript handles asynchronous operations using callbacks, promises, and async/await.
+
+Understand the event loop, microtasks, and execution queue.
+
+🔹 Modules
+Import/Export (1h): Learn how to split code into reusable modules.
+
+Use export and import statements to manage dependencies between files.
+
+🔹 JSON Intro (1h)
+Understand JSON format for data exchange and its syntax.
+
+Use JSON.stringify() and JSON.parse() to convert between JS objects and JSON.
+
+🔹 JavaScript Array Challenges (1h30m)
+Practice using advanced array methods like map, filter, reduce, and find.
+
+Strengthen problem-solving skills with real-world array tasks.
