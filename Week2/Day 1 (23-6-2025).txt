@@ -1,1 +1,30 @@
-23
+🔹 JavaScript Crash Course for Beginners (4h)
+Covers core JavaScript concepts like syntax, loops, conditionals, functions, and arrays.
+
+Ideal for absolute beginners who want to quickly get started with JS basics.
+
+🔹 Variables
+Video + Practice (1h): Learn to declare variables using var, let, and const.
+
+Understand scope differences (block, function, global) and best practices for usage.
+
+🔹 Variable Scopes
+Explore how var is function-scoped and hoisted, while let and const are block-scoped.
+
+Learn where and when each type of variable is accessible in your code.
+
+🔹 Objects Intro (1h)
+Learn how to define and use key-value pairs in objects.
+
+Understand how to access, modify, and loop through object properties.
+
+🔹 OOP in JavaScript (2h)
+Introduction to Object-Oriented Programming with constructors and prototypes.
+
+Learn how JavaScript supports classes and object inheritance.
+
+🔹 Primitive Types (20m)
+Covers JS primitive types: string, number, boolean, null, undefined, symbol, bigint.
+
+Learn how they behave (immutable, pass-by-value) in memory.
+
