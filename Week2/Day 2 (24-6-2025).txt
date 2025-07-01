@@ -1,0 +1,35 @@
+Day 2: Control Flow & Functions
+🔹 Loops
+Video + Practice (1h): Learn for, while, do-while, and loop control statements.
+
+Understand how to iterate over arrays, objects, and conditions.
+
+🔹 Conditions
+Video + Practice (30m): Master if, else, else if, and switch-case.
+
+Learn to use logical operators to control program behavior.
+
+🔹 Arrays
+Video + Theoretical (2h): Learn how to create, update, and traverse arrays.
+
+Understand built-in methods like push, pop, splice, and slice.
+
+🔹 Functions
+Intro + In-Depth (1h30m): Learn to declare, invoke, and return values from functions.
+
+Understand parameter passing, function scope, and hoisting.
+
+🔹 Arrow Functions (30m)
+Concise way to write functions using =>.
+
+No own this binding — ideal for callbacks and short logic.
+
+🔹 Function Borrowing (30m)
+Use call(), apply(), and bind() to reuse object methods.
+
+Learn how function context (this) can be explicitly set.
+
+🔹 JavaScript Objects Challenge (2h)
+Hands-on practice building and manipulating JavaScript objects.
+
+Strengthens knowledge of nested properties, methods, and object iteration.
