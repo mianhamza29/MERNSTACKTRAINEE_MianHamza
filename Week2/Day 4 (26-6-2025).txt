@@ -1,0 +1,15 @@
+Day 4: DOM & Pro JavaScript
+🔹 DOM Manipulation (7h30m)
+Learn how to select, modify, and remove HTML elements using JS.
+
+Handle events like clicks, input, and dynamically change styles/content.
+
+🔹 Concepts of JavaScript You Should Know (15m)
+Covers hoisting, closures, coercion, and other JS quirks.
+
+Builds deeper understanding of how JavaScript works under the hood.
+
+🔹 JS Pro Tips (15m)
+Learn best practices for writing efficient and clean JavaScript code.
+
+Includes quick tips like debouncing, short-circuiting, and performance tricks.
