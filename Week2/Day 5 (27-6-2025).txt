@@ -1,0 +1,26 @@
+ Day 5: Git & Version Control (Git Day)
+🔹 Git Branches (2h)
+Learn how to create, switch, and manage Git branches.
+
+Understand the importance of isolating features and collaborative development.
+
+🔹 Merge and Rebase (2h)
+Learn the difference between git merge and git rebase.
+
+Practice clean integration of code changes and linear history management.
+
+🔹 Git Tips & Tricks
+Explore productivity hacks like stashing, aliases, and rewording commits.
+
+Learn how to navigate history and work faster with Git commands.
+
+🔹 Git with Fireship (1h)
+Visual walkthrough of Git basics and GitHub usage from Fireship’s fast-paced content.
+
+Covers key commands and real-life version control workflows.
+
+🔹 Resolving Merge Conflicts (3h)
+Practice resolving common Git merge conflicts using CLI and editors like VS Code.
+
+Learn how to identify, fix, and finalize conflict resolution cleanly.
+
